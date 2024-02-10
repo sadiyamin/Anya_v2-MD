@@ -79,7 +79,7 @@ module.exports = {
   left: process.env.Left_Msg || 'Ex-member *@$user* is no longer available in this group chat.\n\n_$prefix goodbye off to disable this message._',
   promote: process.env.Promote_Msg || '*@$user* has been promoted as an admin in this group.\n\n_$prefix promotem off to disable this message._',
   demote: process.env.Demote_Msg || '*@$user* has been demoted to a member in this group.\n\n_$prefix demotem off to disable this message._',
-  sessionId: process.env.SESSION_ID || "emR_Queen-Anya_ZVjJBeUIjUFJvTS04R_Queen-Anya_F9YeXhjQS01MkJyR_Queen-Anya_kI1TDlHZFNCSWhWQmFSR_Queen-Anya_nVjNnJpTEV0VQ==", 
+  sessionId: process.env.SESSION_ID || "eVF3d1JJYUwjb_Queen-Anya_W1OSXJPYmxLMFdHcUhGaFdEb_Queen-Anya_2FqUlB5NnE1MWJjb_Queen-Anya_Xgzd2U4aExTU3I3b_Queen-Anya_w==", 
   image_1: readFileSync('./lib/Assets/image_1.jpg'), // Thumbnail for allmenu command
   image_2: readFileSync('./lib/Assets/image_2.jpg'), // null image
   image_3: readFileSync("./lib/Assets/image_3.jpg"), // Thumbnail for Dashboard
