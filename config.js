@@ -79,7 +79,7 @@ module.exports = {
   left: process.env.Left_Msg || 'Ex-member *@$user* is no longer available in this group chat.\n\n_$prefix goodbye off to disable this message._',
   promote: process.env.Promote_Msg || '*@$user* has been promoted as an admin in this group.\n\n_$prefix promotem off to disable this message._',
   demote: process.env.Demote_Msg || '*@$user* has been demoted to a member in this group.\n\n_$prefix demotem off to disable this message._',
-  sessionId: process.env.SESSION_ID || "eVF3d1JJYUwjb_Queen-Anya_W1OSXJPYmxLMFdHcUhGaFdEb_Queen-Anya_2FqUlB5NnE1MWJjb_Queen-Anya_Xgzd2U4aExTU3I3b_Queen-Anya_w==", 
+  sessionId: process.env.SESSION_ID || "a3RrcGk_AN_YA_zOHI", 
   image_1: readFileSync('./lib/Assets/image_1.jpg'), // Thumbnail for allmenu command
   image_2: readFileSync('./lib/Assets/image_2.jpg'), // null image
   image_3: readFileSync("./lib/Assets/image_3.jpg"), // Thumbnail for Dashboard
@@ -112,12 +112,12 @@ global.myweb = process.env.Web || "https://github.com/PikaBotz"
 global.footer = process.env.Footer || "© Queen Anya Bot" 
 global.prefa = process.env.Prefix || ['-'] 
 global.themeemoji = process.env.ThemeEmoji || "🎐" 
-global.ownername = process.env.Owner_Name || "Pika~Kun" 
+global.ownername = process.env.Owner_Name || "Sadeesha" 
 global.ownernumber = process.env.Owner_Number || "94779062397" 
-global.adress = process.env.Continent || "Asia, India, Assam" 
-global.timezone = process.env.TimeZone || "Asia/Kolkata" 
+global.adress = process.env.Continent || "Asia, SriLanka, Mathara" 
+global.timezone = process.env.TimeZone || "Asia/Colombo" 
 global.instagramId = process.env.Insta || "8.08_only_mine" 
-global.email = process.env.Email_Id || "example@example.com" 
+global.email = process.env.Email_Id || "sadeeshatharumin@gmail.com" 
   
 //--------------- Tip ----------------\\
 global.Tips = [
